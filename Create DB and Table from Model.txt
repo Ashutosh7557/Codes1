@@ -1,0 +1,17 @@
+Nuget Package Required - Microsoft.EntityFrameworkCore.Tools 
+
+PM> Add-Migration
+cmdlet Add-Migration at command pipeline position 1
+Supply values for the following parameters:
+
+Name: InitalMigation
+Build started...
+Build succeeded.
+To undo this action, use Remove-Migration.
+
+PM> Update-Database
+Build started...
+Build succeeded.
+Done.
+
+PM> 
